@@ -1,0 +1,2 @@
+1) Download Mule ESB runtime zip
+2) Place it in mule-ee directory for Docker image to be built
